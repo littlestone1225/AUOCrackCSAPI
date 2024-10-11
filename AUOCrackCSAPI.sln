@@ -5,8 +5,6 @@ VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AUOCrackCSAPI", "AUOCrackCSAPI\AUOCrackCSAPI.csproj", "{11BEED29-869E-4BCE-9C2B-116644024B57}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AUOCrackOnnxInference", "AUOCrackOnnxInference\AUOCrackOnnxInference.csproj", "{CA7EE3E3-C550-44FE-A5BF-E704ABB992B1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{11BEED29-869E-4BCE-9C2B-116644024B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11BEED29-869E-4BCE-9C2B-116644024B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11BEED29-869E-4BCE-9C2B-116644024B57}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CA7EE3E3-C550-44FE-A5BF-E704ABB992B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CA7EE3E3-C550-44FE-A5BF-E704ABB992B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CA7EE3E3-C550-44FE-A5BF-E704ABB992B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CA7EE3E3-C550-44FE-A5BF-E704ABB992B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
