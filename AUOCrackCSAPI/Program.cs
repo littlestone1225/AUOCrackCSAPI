@@ -196,10 +196,11 @@ class Program
         
         // if empty string, onnx_model_path will automatically generate by HEAD_TYPE and is_fp16
         // for example: onnx_model_path = @"{model_path}\dinov2b14_ms_1_fp16.onnx"
-        string onnx_model_path = @"C:\Users\tiffany.shih\littlestone\AUOCrackCSAPI\AUOCrackCSAPI\onnx_model\dinov2b14_ms_1_fp16.onnx"; 
-        
+        // string onnx_model_path = @"D:\AUOCrackCSAPI\AUOCrackCSAPI\onnx_model\dinov2b14_ms_1_fp16.onnx"; 
+        string onnx_model_path = @"D:\AUOCrackCSAPI\AUOCrackCSAPI\onnx_model\dinov2b14_ms_1_fp16.onnx";
+
         // Parameters (Load data for inference)
-        string image_path = @"C:\Users\tiffany.shih\littlestone\AUOCrackCSAPI\AUOCrackCSAPI\img_644\"; // input image path can be a directory or a single image
+        string image_path = @"D:\AUOCrackCSAPI\AUOCrackCSAPI\img_644\"; // input image path can be a directory or a single image
         
         // Parameters (inference)
         int batch_size = 8;             // inference batch size
